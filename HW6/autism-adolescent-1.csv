@@ -1,0 +1,99 @@
+A1_Score,A2_Score,A3_Score,A4_Score,A5_Score,A6_Score,A7_Score,A8_Score,A9_Score,A10_Score,age,gender,ethnicity,jundice,contry_of_res,used_app_before,relation,Class/ASD
+0,0,0,1,1,1,1,1,1,0,15,m,Hispanic,yes,Austria,no,Parent,NO
+0,0,0,0,0,0,0,0,1,1,15,m,Black,no,Austria,no,Relative,NO
+0,1,1,1,1,1,0,1,1,0,14,f,White-European,no,'United Kingdom',no,Self,YES
+1,1,0,1,1,0,1,1,0,1,15,f,'Middle Eastern ',no,Australia,no,Parent,YES
+1,1,1,1,1,1,0,0,0,0,12,m,Black,yes,Bahrain,no,Parent,NO
+0,1,1,0,0,1,0,0,1,0,12,f,'South Asian',no,Azerbaijan,no,Parent,NO
+1,0,0,0,1,1,0,1,1,0,13,f,'Middle Eastern ',yes,'United Arab Emirates',no,Parent,NO
+1,0,0,0,1,1,0,0,1,1,13,f,White-European,no,'United Kingdom',no,Self,NO
+1,0,0,1,1,1,0,1,1,1,12,f,Others,no,'United Kingdom',no,Self,YES
+1,1,1,1,1,1,0,1,1,1,12,f,Others,no,'United Kingdom',no,Parent,YES
+1,0,1,1,1,1,0,1,1,1,12,f,Others,no,'United Kingdom',no,Self,YES
+1,1,0,1,1,1,1,1,1,1,15,f,White-European,no,'United Kingdom',no,Parent,YES
+1,0,0,0,1,0,0,1,0,1,12,f,Others,yes,'United Kingdom',no,Parent,NO
+1,0,1,1,1,1,0,1,1,1,12,f,Others,no,'United Kingdom',no,Parent,YES
+1,1,1,1,1,0,0,1,1,0,13,f,White-European,no,'United Kingdom',no,Parent,YES
+1,1,1,0,1,1,1,0,1,1,12,m,White-European,no,'United Kingdom',no,Parent,YES
+0,0,1,1,1,1,0,1,1,1,12,f,Others,no,'United Kingdom',no,Parent,YES
+1,1,1,1,0,1,1,1,1,1,14,m,White-European,no,'New Zealand',no,Parent,YES
+1,1,1,1,1,1,1,1,1,1,15,f,White-European,no,Australia,no,Parent,YES
+1,0,1,1,1,1,1,1,1,1,13,m,'Middle Eastern ',no,'United States',no,Parent,YES
+1,1,1,1,1,1,1,1,1,1,14,m,Hispanic,no,Argentina,no,Self,YES
+1,0,1,1,1,1,0,1,1,1,12,f,Others,no,'United Kingdom',no,'Health care professional',YES
+1,1,0,1,0,0,0,0,0,0,12,m,'Middle Eastern ',no,Jordan,no,Self,NO
+1,0,1,1,1,0,0,0,1,1,14,f,White-European,no,Canada,no,Self,NO
+0,1,1,1,1,1,1,1,1,1,16,m,Others,no,'United Kingdom',no,Parent,YES
+1,0,1,1,1,1,0,1,1,1,14,f,White-European,no,'United Kingdom',no,Self,YES
+1,1,1,1,1,1,0,0,0,1,13,m,White-European,no,'United Kingdom',no,Self,YES
+1,0,1,1,1,1,0,1,1,1,16,f,White-European,no,'United States',no,Self,YES
+1,1,1,1,1,1,1,0,1,1,12,m,'Middle Eastern ',yes,'United States',no,Parent,YES
+1,0,1,1,1,1,1,1,1,1,14,f,Others,no,Canada,no,Self,YES
+1,1,1,1,0,1,1,1,1,1,16,f,Latino,no,Brazil,no,Self,YES
+1,0,1,1,1,1,1,1,1,1,15,f,Black,no,'United States',no,Self,YES
+0,0,1,1,1,1,1,1,1,1,14,f,Others,no,Canada,no,Self,YES
+0,0,1,1,1,1,1,1,1,1,12,m,White-European,no,'United States',no,Relative,YES
+0,0,1,1,1,1,1,1,1,1,12,m,White-European,no,'United States',no,Relative,YES
+1,0,1,0,1,1,1,1,1,1,15,m,White-European,no,Croatia,no,'Health care professional',YES
+1,1,0,0,1,1,0,0,1,0,13,f,Others,yes,'United States',no,Self,NO
+1,0,0,0,1,1,0,0,0,0,16,m,Hispanic,no,Argentina,no,Self,NO
+0,1,1,1,1,1,1,1,1,1,16,m,Hispanic,no,Argentina,no,Self,YES
+0,0,1,1,1,1,1,1,1,0,15,f,White-European,no,Argentina,no,Parent,YES
+1,1,1,1,1,1,1,1,1,1,16,m,Asian,yes,India,no,Relative,YES
+0,1,1,1,1,1,1,1,1,1,16,m,Asian,yes,India,yes,Relative,YES
+1,1,1,1,0,1,0,0,1,0,12,m,Asian,no,Bangladesh,no,Parent,NO
+1,1,1,0,1,1,1,1,1,1,12,f,Black,no,France,no,Parent,YES
+1,1,0,1,1,1,0,0,1,1,14,f,'South Asian',no,'United Kingdom',no,Self,YES
+0,0,1,1,0,1,0,1,1,1,13,m,Asian,no,Indonesia,no,Parent,NO
+0,1,1,1,1,1,1,1,1,1,13,m,Asian,no,Indonesia,no,Parent,YES
+1,0,0,1,1,1,0,1,1,1,16,f,Black,no,'United States',no,Self,YES
+0,0,0,1,1,1,0,0,0,1,13,m,'Middle Eastern ',no,Egypt,no,Others,NO
+1,0,0,0,0,0,0,0,0,0,15,f,Hispanic,no,Argentina,no,Self,NO
+0,0,0,1,0,0,1,1,0,0,15,m,Latino,no,Argentina,no,Self,NO
+0,1,0,0,0,0,0,0,0,0,15,m,Black,no,Argentina,no,Parent,NO
+1,1,1,1,1,1,1,1,0,0,16,m,White-European,no,Argentina,no,Self,YES
+0,0,0,0,0,0,1,0,0,0,16,m,Latino,no,Argentina,no,Self,NO
+1,1,1,1,1,1,1,1,1,1,16,m,Latino,no,Argentina,no,Self,YES
+1,1,1,1,1,1,1,1,1,1,12,f,White-European,no,'United Kingdom',no,Self,YES
+1,1,0,0,0,0,0,1,0,0,16,f,White-European,no,'United Kingdom',no,Self,NO
+0,0,1,1,1,1,1,1,1,1,16,f,White-European,no,Netherlands,no,Parent,YES
+1,0,1,1,1,1,0,0,1,1,16,f,White-European,yes,Greenland,no,Self,YES
+1,0,1,1,1,0,1,1,1,0,14,f,White-European,no,'United Kingdom',no,Self,YES
+1,0,1,1,1,1,0,1,1,1,15,f,White-European,no,Austria,no,'Health care professional',YES
+1,0,1,1,1,1,0,1,1,1,15,f,Asian,no,Bahamas,no,Self,YES
+0,0,1,0,1,1,1,0,0,0,16,m,White-European,no,Netherlands,no,Others,NO
+1,1,1,1,1,1,0,0,1,1,13,f,White-European,no,'United States',no,Self,YES
+1,1,0,0,1,0,1,1,1,1,14,m,Others,no,'United Kingdom',no,Self,YES
+1,1,0,0,0,1,0,1,1,1,13,f,White-European,no,Belgium,yes,'Health care professional',NO
+0,1,0,1,1,1,0,1,1,1,16,f,White-European,no,'United States',no,Self,YES
+1,1,1,1,0,1,0,0,1,1,12,f,Black,no,'United Kingdom',no,Self,YES
+1,1,1,1,1,1,0,1,1,0,12,m,White-European,no,Albania,no,'Health care professional',YES
+1,1,1,1,1,1,1,0,1,0,16,m,Asian,no,'United Kingdom',no,Parent,YES
+1,1,1,0,1,0,1,0,1,0,16,m,Asian,no,'United Kingdom',no,Self,NO
+1,1,1,1,1,1,1,0,1,1,14,f,White-European,no,'South Africa',no,Parent,YES
+1,1,0,0,1,0,1,0,0,0,12,m,Asian,yes,'Viet Nam',no,Self,NO
+1,1,1,1,1,1,1,1,1,0,14,m,White-European,no,'United States',no,Parent,YES
+1,0,1,1,0,1,1,1,1,1,16,f,White-European,yes,'United Kingdom',no,Parent,YES
+0,0,1,1,0,1,0,1,1,1,13,f,Black,no,AmericanSamoa,no,Parent,NO
+1,0,0,0,1,1,0,1,0,0,16,m,'South Asian',no,Comoros,no,Self,NO
+1,1,1,0,1,1,1,0,1,1,16,m,Asian,no,Portugal,no,Relative,YES
+1,1,0,1,1,1,0,0,1,0,15,m,White-European,no,Croatia,no,Self,NO
+1,0,0,1,1,1,0,0,1,1,14,m,White-European,no,Finland,no,Parent,NO
+0,0,1,1,1,0,1,1,1,1,16,m,Asian,yes,India,no,Others,YES
+1,1,1,1,1,1,1,0,1,1,16,m,Asian,yes,India,no,Relative,YES
+0,1,1,1,0,0,0,1,1,1,16,f,White-European,yes,'United Kingdom',no,Self,NO
+1,1,1,1,1,1,0,0,1,1,14,m,White-European,no,'United Kingdom',no,Parent,YES
+1,0,1,0,0,1,0,0,1,1,13,m,White-European,no,Norway,no,Self,NO
+1,1,0,1,1,1,1,1,1,1,16,m,White-European,no,'United States',no,Self,YES
+1,1,0,1,1,1,1,1,1,1,15,m,White-European,yes,'United Kingdom',no,Self,YES
+1,0,1,0,1,0,1,0,0,0,12,m,Asian,no,India,yes,Relative,NO
+1,1,1,0,1,1,0,0,1,1,16,m,White-European,yes,Ireland,no,Self,YES
+1,1,0,1,0,0,1,1,0,0,15,m,Asian,no,Indonesia,no,Self,NO
+1,1,1,0,1,1,1,1,1,1,15,f,'Middle Eastern ',no,Egypt,no,Parent,YES
+1,1,1,1,1,1,1,1,0,0,16,f,Latino,no,Austria,no,'Health care professional',YES
+0,1,1,1,0,1,1,0,1,0,12,f,'Middle Eastern ',no,Austria,no,Parent,NO
+0,1,1,1,0,1,1,0,1,0,16,f,'Middle Eastern ',no,Anguilla,yes,Parent,NO
+1,0,1,0,0,0,0,1,0,1,16,m,Asian,no,India,no,Parent,NO
+1,0,0,1,1,1,1,1,1,1,12,f,White-European,no,'United Kingdom',no,Self,YES
+1,1,0,1,1,0,0,0,1,1,13,f,White-European,no,'United Kingdom',no,Self,NO
+1,0,1,0,0,1,1,1,1,0,12,m,Asian,no,India,no,Parent,NO
